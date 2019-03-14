@@ -10,6 +10,7 @@ public class test {
     public void test(){
         System.out.println("ddsf");
         System.out.println(122222);
+        System.out.println(121212);
     }
 
 }
